@@ -1,0 +1,9 @@
+.tag{
+    background-color: indigo;
+    color: mediumturquoise;
+    font-size: 20px
+}
+
+.round{
+    border-radius: 10px;
+}
